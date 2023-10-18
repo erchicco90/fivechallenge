@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]((https://erchicco90.github.io/fivechallenge/)
+- Live Site URL: [Live Site](https://erchicco90.github.io/fivechallenge/)
 
 ## My process
 
