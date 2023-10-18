@@ -51,5 +51,5 @@ Had some troubles with js, the part when i switch to an other 'number' button, t
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/erchicco90)
-- Twitter - [@yourusername](https://www.twitter.com/Leotha09)
+- Frontend Mentor - [@erchicc90](https://www.frontendmentor.io/profile/erchicco90)
+- Twitter - [@leotha09](https://www.twitter.com/Leotha09)
