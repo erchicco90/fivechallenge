@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.jpg)
+![](https://github.com/erchicco90/fivechallenge/blob/main/Screenshot%20.png?=raw)
 
 ### Links
 
